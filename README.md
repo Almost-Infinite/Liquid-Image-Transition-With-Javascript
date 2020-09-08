@@ -5,7 +5,7 @@
 <br><br>
 # Liquid Image Transition With Javascript
 
-[![Site](img/screen.gif)](link)
+[![Site](img/screen.gif)](https://almost-infinite.github.io/Liquid-Image-Transition-With-Javascript/)
 
 
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=almost-infinite" alt="almost-infinite" style="border-radius: 30px;" /> </p>
