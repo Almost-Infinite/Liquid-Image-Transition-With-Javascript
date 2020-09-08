@@ -8,9 +8,9 @@ intro.style.color = "black"
 new hoverEffect({
     parent: document.querySelector(".distortion"),
     intensity: 0.9,
-    image1: './img/img3.png',
-    image2: './img/img4.png',    
-    displacementImage: './img/li2.png'
+    image1: '../img/img3.png',
+    image2: '../img/img4.png',    
+    displacementImage: '../img/li2.png'
 });
 
 
